@@ -2,9 +2,12 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 2rem;
-  padding: 2rem;
-  background-color: cornflowerblue;
+  justify-content: center;
+  margin: 1rem;
+  padding: 1rem;
+  border: 5px solid moccasin;
+  color: cornsilk;
+  border-radius: 10px;
 }
 
 #break-label {
