@@ -1,0 +1,16 @@
+.break-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem;
+  padding: 2rem;
+  background-color: cornflowerblue;
+}
+
+#break-label {
+  margin: 0;
+}
+
+#break-label > h2 {
+  margin: 0;
+}
